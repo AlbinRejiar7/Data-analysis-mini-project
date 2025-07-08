@@ -41,13 +41,17 @@ The dashboard consists of **three interactive pages**:
 ## 📸 Screenshots
 
 ### 🧾 Overview Page
-![Overview Page](./screenshots/Screenshot%202025-07-08%20121732.png)
+
+![Screenshot 2025-07-08 121732](https://github.com/user-attachments/assets/90272aeb-a45b-4e0a-87fe-44b9976f5eb6)
+
 
 ### 📈 Engagement & Performance Analysis
-![Performance Page](./screenshots/Screenshot%202025-07-08%20121743.png)
+![Screenshot 2025-07-08 121743](https://github.com/user-attachments/assets/1b82b3e1-6d22-4abc-8379-db0c9ed7b8e4)
+
 
 ### 📉 Forecast & Segmentation
-![Forecast Page](./screenshots/Screenshot%202025-07-08%20121748.png)
+
+![Screenshot 2025-07-08 121748](https://github.com/user-attachments/assets/ec086b17-4d26-492d-adb9-cb2d71908b4b)
 
 ---
 
